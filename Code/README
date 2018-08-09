@@ -1,11 +1,3 @@
-Anirudh Madhava Sai Kovuru 20161189
-Shashwat Bhardwaj 20161187
-
-Note:
-Small modifications were made to the server code for the timestamp format.
-Therefore server code is also included in submission.
-Screenshot 'screenshot.py' also included in main folder 
-
 Instructions:
 1. Go to the directory containing proxy.py
 2. Open server directory in a new terminal tab
